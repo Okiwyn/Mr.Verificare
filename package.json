@@ -1,0 +1,14 @@
+{
+  "name": "verificare",
+  "version": "0.0.1",
+  "description": "Bot de verificare pentru L.V Gang",
+  "main": "ver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Xeavye#9404",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
